@@ -1,0 +1,16 @@
+1.搜索
+https://api.eyunzhu.com/api/vatfs/resource_site_collect/search?kw=斗罗&per_page=50&page=1
+
+per_page:每页显示数量
+page：当前页面
+wd:搜索关键词
+
+2.获取播放地址等详情
+https://api.eyunzhu.com/api/vatfs/resource_site_collect/getVDetail?vid=1
+
+vid:资源vid
+3.直播源
+https://api.eyunzhu.com/plugin/eyunzhu_vatfs_api/api/getLiveSource
+
+4.影视搜索榜单
+http://api.eyunzhu.com/api/vatfs/baidu_top
